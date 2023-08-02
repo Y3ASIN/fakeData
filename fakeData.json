@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "name": "Web Development Bootcamp",
+      "mentor": "John Doe",
+      "price": 49.99,
+      "rating": 4.8
+    },
+    {
+      "name": "Python for Beginners",
+      "mentor": "Jane Smith",
+      "price": 29.99,
+      "rating": 4.6
+    },
+    {
+      "name": "Data Science with R",
+      "mentor": "Michael Johnson",
+      "price": 59.99,
+      "rating": 4.9
+    },
+    {
+      "name": "JavaScript Mastery",
+      "mentor": "Emily Adams",
+      "price": 39.99,
+      "rating": 4.7
+    },
+    {
+      "name": "Mobile App Development",
+      "mentor": "Alex Turner",
+      "price": 54.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Machine Learning Fundamentals",
+      "mentor": "David Lee",
+      "price": 69.99,
+      "rating": 4.8
+    },
+    {
+      "name": "Graphic Design Essentials",
+      "mentor": "Sophia Martinez",
+      "price": 34.99,
+      "rating": 4.4
+    },
+    {
+      "name": "Java Programming",
+      "mentor": "Robert Johnson",
+      "price": 49.99,
+      "rating": 4.6
+    },
+    {
+      "name": "UI/UX Design for Mobile Apps",
+      "mentor": "Olivia Williams",
+      "price": 39.99,
+      "rating": 4.9
+    },
+    {
+      "name": "Introduction to Blockchain",
+      "mentor": "Chris Brown",
+      "price": 29.99,
+      "rating": 4.7
+    },
+    {
+      "name": "Data Analysis with Python",
+      "mentor": "Grace Taylor",
+      "price": 44.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Digital Marketing Strategy",
+      "mentor": "Andrew Davis",
+      "price": 54.99,
+      "rating": 4.8
+    },
+    {
+      "name": "C++ Programming Fundamentals",
+      "mentor": "Daniel Lee",
+      "price": 39.99,
+      "rating": 4.6
+    },
+    {
+      "name": "Web Design for Beginners",
+      "mentor": "Ava Johnson",
+      "price": 29.99,
+      "rating": 4.7
+    },
+    {
+      "name": "Android App Development",
+      "mentor": "Lucas Adams",
+      "price": 59.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "mentor": "Sophie Turner",
+      "price": 49.99,
+      "rating": 4.8
+    },
+    {
+      "name": "Video Editing with Adobe Premiere Pro",
+      "mentor": "David Miller",
+      "price": 34.99,
+      "rating": 4.4
+    },
+    {
+      "name": "React.js Crash Course",
+      "mentor": "Oliver Harris",
+      "price": 39.99,
+      "rating": 4.9
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "mentor": "Eva Brown",
+      "price": 29.99,
+      "rating": 4.7
+    },
+    {
+      "name": "Game Development with Unity",
+      "mentor": "Benjamin Adams",
+      "price": 54.99,
+      "rating": 4.5
+    }
+  ]
+}
